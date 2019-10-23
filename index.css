@@ -15,7 +15,7 @@ color: white;
 
   header {
     height: 90vh;
-    background-image: linear-gradient( rgba(0,0,0,0.7), rgba(0, 0, 0, 0.7) ) , url("https://www.resizepixel.com/Image/80afca40/Preview/back.jpg?v=d1052e67-62f5-4024-b0a9-0d183a71a62b");
+    background-image: linear-gradient( rgba(0,0,0,0.7), rgba(0, 0, 0, 0.7) ) , url("https://www.resizepixel.com/Image/4a075524/Preview/back.jpg?v=7e1be022-cb9d-432e-a7da-f4dd0cfed8fa");
     background-size: cover;
     background-position: top;
     position: relative;
@@ -129,7 +129,7 @@ color: white;
 */
 
 .container .img-container {
-  background-image: url("https://www.resizepixel.com/Image/413d1202/Preview/mpora-150x150.jpg?v=b3e29326-d0c1-4212-8ac1-87b5fc093359");
+  background-image: url("https://www.resizepixel.com/Image/f5de34e7/Preview/mpora-150x150.jpg?v=2e52cdc1-d892-4a0b-b87f-9183a9fd5cfa");
   background-size: cover;
   border: 2px solid #f1f1f1;
   border-radius: 50%;
