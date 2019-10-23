@@ -129,7 +129,7 @@ color: white;
 */
 
 .container .img-container {
-  background-image: url(https://www.resizepixel.com/Image/413d1202/Preview/mpora-150x150.jpg?v=b3e29326-d0c1-4212-8ac1-87b5fc093359);
+  background-image: url("https://www.resizepixel.com/Image/413d1202/Preview/mpora-150x150.jpg?v=b3e29326-d0c1-4212-8ac1-87b5fc093359");
   background-size: cover;
   border: 2px solid #f1f1f1;
   border-radius: 50%;
